@@ -1,5 +1,7 @@
 # MaiML-Schema
 
+🌐 Language: [日本語](README.md) | **English**
+
 **MaiML-Schema** is the GitHub organization for developing and maintaining the XML Schema definitions of **MaiML (Measurement Analysis Instrument Markup Language)**.
 
 This organization provides the development environment for new schema versions, including schema design, validation, compatibility testing, and review before official release.
