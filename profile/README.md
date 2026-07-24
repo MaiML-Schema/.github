@@ -1,5 +1,8 @@
 # MaiML-Schema
 
+🌐 Language: **日本語** | [English](README_en.md)
+
+
 **MaiML（Measurement Analysis Instrument Markup Language）** のXML Schema（XSD）の開発・保守を行うGitHub Organizationです。
 
 MaiML-Schemaでは、新しいスキーマバージョンの設計、検証、互換性評価、レビューなど、正式リリースに向けたスキーマ開発を行っています。
