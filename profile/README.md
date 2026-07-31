@@ -55,7 +55,7 @@ MaiML Schemaの品質向上に向けたご協力を歓迎します。
 
 - [MaiML公式サイト](https://www.maiml.org/)
 - [MaiML仕様書（JIS-K0200）](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+K+0200:2024)
-- [XML Schema](https://www.maiml.org/schema/)
+- [XML Schema](https://www.maiml.org/schemas/)
 - [MaiML Ecosystem](https://maiml-org.github.io/)
 
 ---
