@@ -32,7 +32,7 @@ Please note that:
 
 - Schemas under development may change without notice.
 - Backward compatibility is evaluated during the review process.
-- Only reviewed and approved schema versions are considered official releases.
+- Only reviewed and approved schema versions are considered official releases.([https://www.maiml.org/])
 
 ---
 
